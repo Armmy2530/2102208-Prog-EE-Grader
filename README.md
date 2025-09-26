@@ -2,7 +2,7 @@
 
 ## Summary
 - Total Tasks: 21
-- Completed Tasks: 8
+- Completed Tasks: 9
 ## Tasks Status
 
 | Task Name | Status | Score |
@@ -11,7 +11,7 @@
 | ee208_​decomposition | ✅ | 100% |
 | ee208_​find_​outlier | ✅ | 100% |
 | ee208_​hankel_​matrix | ✅ | 100% |
-| ee208_​matrix_​norm | ❌ | 0% |
+| ee208_​matrix_​norm | ✅ | 100% |
 | ee208_​max_​abs_​sum | ❌ | 0% |
 | ee208_​max_​inner_​product | ❌ | 0% |
 | ee208_​max_​quadratic | ❌ | 0% |
