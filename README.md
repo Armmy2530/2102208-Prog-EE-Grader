@@ -1,14 +1,20 @@
 # Programming Tasks Status
 
 ## Summary
-- Total Tasks: 21
-- Completed Tasks: 9
+- Total Tasks: 27
+- Completed Tasks: 15
 ## Tasks Status
 
 | Task Name | Status | Score |
 |-----------|--------|-------|
 | ee208_​cosine_​difference | ✅ | 100% |
 | ee208_​decomposition | ✅ | 100% |
+| ee208_​ex2025_​collatz_​cnt | ✅ | 100% |
+| ee208_​ex2025_​is_​prime | ✅ | 100% |
+| ee208_​ex2025_​recur_​avg | ✅ | 100% |
+| ee208_​ex2025_​recur_​base_​conver | ✅ | 100% |
+| ee208_​ex2025_​recur_​collatz_​cnt | ✅ | 100% |
+| ee208_​ex2025_​sum_​unit | ✅ | 100% |
 | ee208_​find_​outlier | ✅ | 100% |
 | ee208_​hankel_​matrix | ✅ | 100% |
 | ee208_​matrix_​norm | ✅ | 100% |
