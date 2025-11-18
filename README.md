@@ -1,8 +1,8 @@
 # Programming Tasks Status
 
 ## Summary
-- Total Tasks: 27
-- Completed Tasks: 15
+- Total Tasks: 29
+- Completed Tasks: 17
 ## Tasks Status
 
 | Task Name | Status | Score |
@@ -16,6 +16,8 @@
 | ee208_​ex2025_​recur_​collatz_​cnt | ✅ | 100% |
 | ee208_​ex2025_​sum_​unit | ✅ | 100% |
 | ee208_​find_​outlier | ✅ | 100% |
+| ee208_​fund_​ppm_​p3_​reader | ✅ | 100% |
+| ee208_​fund_​wav_​header | ✅ | 100% |
 | ee208_​hankel_​matrix | ✅ | 100% |
 | ee208_​matrix_​norm | ✅ | 100% |
 | ee208_​max_​abs_​sum | ❌ | 0% |
